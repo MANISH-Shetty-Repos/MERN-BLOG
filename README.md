@@ -3,14 +3,6 @@
 A **full-stack blog platform** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** with **Tailwind CSS** for responsive styling.
 The application follows the **MVC architecture** and supports complete **CRUD operations** with secure authentication.
 
----
-
-##  Live Demo
-
- **View Application:** [https://mern-blog-rq9a.onrender.com/](https://mern-blog-rq9a.onrender.com/)
-
----
-
 ##  Project Overview
 
 The MERN Blog Application allows users to **create, edit, publish, and manage blog posts** through an intuitive and responsive interface.
@@ -72,40 +64,3 @@ This project emphasizes:
 ### 🔹 Architecture
 
 * MVC (Model–View–Controller)
-
-
-
-##  How to Run Locally
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/mern-blog.git
-cd mern-blog
-```
-
-### 2️⃣ Backend Setup
-
-```bash
-cd backend
-npm install
-npm start
-```
-
-### 3️⃣ Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### 4️⃣ Environment Variables
-
-Create a `.env` file in the backend directory and configure:
-
-* MongoDB connection string
-* Firebase credentials
-* Server port
-
-
