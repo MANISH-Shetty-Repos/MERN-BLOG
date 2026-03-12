@@ -22,13 +22,6 @@ export default function FooterCom() {
             <div>
               <Footer.Title title='About' />
               <Footer.LinkGroup col>
-                {/* <Footer.Link
-                  href='https://www.100jsprojects.com'
-                  target='_blank'
-                  rel='noopener noreferrer'
-                >
-                  100 JS Projects
-                </Footer.Link> */}
                 <Footer.Link
                   href='/about'
                   target='_blank'
@@ -48,13 +41,11 @@ export default function FooterCom() {
                 >
                   Github
                 </Footer.Link>
-                {/* <Footer.Link href='#'>Discord</Footer.Link> */}
               </Footer.LinkGroup>
             </div>
             <div>
               <Footer.Title title='Legal' />
               <Footer.LinkGroup col>
-                {/* <Footer.Link href='/Projects' target='_blank' rel='noopener noreferrer'>Privacy Policy</Footer.Link> */}
                 <Footer.Link href='/Projects' target='_blank' rel='noopener noreferrer'>Terms &amp; Conditions</Footer.Link>
               </Footer.LinkGroup>
             </div>
