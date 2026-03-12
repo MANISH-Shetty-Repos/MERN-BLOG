@@ -7,7 +7,7 @@ The application follows the **MVC architecture** and supports complete **CRUD op
 
 ##  Live Demo
 
-👉 **View Application:** [https://mern-blog-rq9a.onrender.com/](https://mern-blog-rq9a.onrender.com/)
+ **View Application:** [https://mern-blog-rq9a.onrender.com/](https://mern-blog-rq9a.onrender.com/)
 
 ---
 
@@ -25,29 +25,29 @@ This project emphasizes:
 
 
 
-## ✨ Key Features
+##  Key Features
 
-* 🔐 **User Authentication**
+*  **User Authentication**
 
   * Secure login & registration using Firebase Authentication
-* ✍️ **CRUD Operations**
+*  **CRUD Operations**
 
   * Create, Read, Update, and Delete blog posts
-* 🧩 **MVC Architecture**
+*  **MVC Architecture**
 
   * Clear separation between controllers, services, and routes
-* 🎨 **Responsive UI**
+*  **Responsive UI**
 
   * Modern, mobile-friendly interface using Tailwind CSS
-* 📦 **RESTful APIs**
+*  **RESTful APIs**
 
   * Well-structured APIs using Express.js
-* ⚡ **Fast & Scalable Backend**
+*  **Fast & Scalable Backend**
 
   * Node.js runtime with MongoDB database
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 🔹 Frontend
 
@@ -75,7 +75,7 @@ This project emphasizes:
 
 
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ### 1️⃣ Clone the repository
 
